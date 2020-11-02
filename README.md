@@ -12,3 +12,10 @@ MAD-UNet 参考了:Pancreas Segmentation in Abdominal CT Scan: A Coarse-to-Fine 
 
 如果代码运行过程中遇到问题,请联系qq邮箱:675507239@qq.com
 
+参考代码：
+U-Net: https://github.com/yihui-he/u-net.  
+Segnet: https://github.com/imlab-uiip/keras-segnet.  
+Att-Unet: https://github.com/MoleImg/Attention_UNet. 
+V-Net: https://github.com/faustomilletari/VNet
+
+
